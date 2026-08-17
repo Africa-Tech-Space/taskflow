@@ -1,0 +1,5 @@
+- "Sometimes when I list tasks, one seems to go missing from the page — it shows up on the next page load though."
+
+- "I marked a task complete, but a minute later it showed as incomplete again. This seems to happen when two of us are working at the same time."
+
+- "The app crashed entirely when I tried to complete a task that didn't have anyone assigned to it."
